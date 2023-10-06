@@ -19,9 +19,9 @@ Ao final deve se exibir uma mensagem:
 "O Herói de nome **{nome}** está no nível de **{nivel}**"
 
 ## 🎮 DESENVOLVIMENTO
-Para desenvolver este desafio foi criado um mini-game onde é sorteado o poder do herói e do inimigo, o valor xp do herói é somado de acordo com o poder e com qual foi o resultado da batalha.
-Poder * 1: se o inimigo vencer 
-Poder * 3: se o herói vencer 
+Para desenvolver este desafio foi criado um mini-game onde é sorteado o poder do herói e do inimigo, o valor xp do herói é somado de acordo com o poder e com qual foi o resultado da batalha.<br>
+Poder * 1: se o inimigo vencer <br>
+Poder * 3: se o herói vencer <br>
 Poder * 2: se empatar 
 
 ## COMO EXECUTAR O PROJETO
